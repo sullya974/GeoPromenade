@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746319438100",
+    "project_id": "geopromenade",
+    "storage_bucket": "geopromenade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746319438100:android:f2f6c8c47d1e8edd7d2201",
+        "android_client_info": {
+          "package_name": "com.dam05.geopromenade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746319438100-uks04s5h4s4jlesrj6fe0b8peg7sbiqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmyqZPBEzubGifl2kPqrGBnyqUY5fKJs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746319438100-uks04s5h4s4jlesrj6fe0b8peg7sbiqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

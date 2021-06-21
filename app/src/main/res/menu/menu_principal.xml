@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/ic_menu_01_24"/>
+        <item android:id="@+id/nav_createUser"
+            android:title="Créer un utilisateur"
+            android:icon="@drawable/ic_menu_02_24"/>
+        <item android:id="@+id/nav_usersList"
+            android:title="Liste utilisateurs"
+            android:icon="@drawable/ic_menu_03_24"/>
+        <item android:id="@+id/nav_newItinerary"
+            android:title="Nouveau Parcours"
+            android:icon="@drawable/ic_menu_04_24"/>
+        <item android:id="@+id/nav_createComment"
+            android:title="Créer un commentaire"
+            android:icon="@drawable/ic_menu_02_24"/>
+    </group>
+
+    <item android:title="Settings">
+        <menu>
+            <item android:id="@+id/nav_myProfile"
+                android:title="@string/my_profile"
+                android:icon="@drawable/ic_menu_05_24"/>
+            <item android:id="@+id/nav_logout"
+                android:title="Déconnexion"
+                android:icon="@drawable/ic_menu_06_24"/>
+        </menu>
+    </item>
+</menu>
